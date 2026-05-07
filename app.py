@@ -765,3 +765,10 @@ Columns:
                 file_name="dataset_summary.txt",
                 mime="text/plain"
             )
+st.markdown("""
+<hr style='margin-top:50px; margin-bottom:10px;'>
+
+<div style='text-align:left; color:gray; font-size:14px;'>
+Developed by <b>K Sai Durga Prasad</b>
+</div>
+""", unsafe_allow_html=True)
