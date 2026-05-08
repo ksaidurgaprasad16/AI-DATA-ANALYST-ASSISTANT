@@ -75,7 +75,6 @@ OPENROUTER_API_KEY = st.secrets["OPENROUTER_API_KEY"]
 # AI FUNCTION
 # =========================================================
 
-@st.cache_data(show_spinner=False)
 def ask_ai(prompt):
 
     headers = {
