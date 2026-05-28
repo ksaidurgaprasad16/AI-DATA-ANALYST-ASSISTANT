@@ -5,3 +5,7 @@ plotly
 requests
 openpyxl
 reportlab
+sqlalchemy
+pymysql
+psycopg2-binary
+pyodbc
