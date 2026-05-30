@@ -340,8 +340,8 @@ if st.session_state.page == "Home":
         <h4 style="color:#f9a8d4;">Supported Files</h4>
 
         <ul>
-            <li>PBIX</li>
-            <li>PBIT</li>
+            <li>CSV</li>
+            <li>Excel</li>
         </ul>
 
         <h4 style="color:#f9a8d4;">Features</h4>
